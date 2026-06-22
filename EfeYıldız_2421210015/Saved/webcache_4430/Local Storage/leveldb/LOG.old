@@ -1,0 +1,50 @@
+2026/06/21-03:03:16.106 ae9c Reusing MANIFEST C:/Users/RYPE/Desktop/business/UE5GitHub/ehete/EfeYıldız_2421210015/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/21-03:03:16.107 ae9c Recovering log #14
+2026/06/21-03:03:16.107 ae9c Level-0 table #18: started
+2026/06/21-03:03:16.110 ae9c Level-0 table #18: 75334 bytes OK
+2026/06/21-03:03:16.111 ae9c Delete type=0 #14
+2026/06/21-03:06:03.219 ae84 Level-0 table #21: started
+2026/06/21-03:06:03.222 ae84 Level-0 table #21: 76803 bytes OK
+2026/06/21-03:06:03.223 ae84 Delete type=0 #19
+2026/06/21-03:11:26.692 aa8c Level-0 table #23: started
+2026/06/21-03:11:26.695 aa8c Level-0 table #23: 78346 bytes OK
+2026/06/21-03:11:26.696 aa8c Delete type=0 #20
+2026/06/21-03:12:24.433 ae84 Level-0 table #25: started
+2026/06/21-03:12:24.436 ae84 Level-0 table #25: 82470 bytes OK
+2026/06/21-03:12:24.437 ae84 Delete type=0 #22
+2026/06/21-03:12:24.442 aa8c Compacting 4@0 + 1@1 files
+2026/06/21-03:12:24.445 aa8c Generated table #26@0: 3 keys, 27968 bytes
+2026/06/21-03:12:24.445 aa8c Compacted 4@0 + 1@1 files => 27968 bytes
+2026/06/21-03:12:24.445 aa8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/21-03:12:24.446 aa8c Delete type=2 #16
+2026/06/21-03:12:24.446 aa8c Delete type=2 #18
+2026/06/21-03:12:24.446 aa8c Delete type=2 #21
+2026/06/21-03:12:24.446 aa8c Delete type=2 #23
+2026/06/21-03:12:24.446 aa8c Delete type=2 #25
+2026/06/21-07:57:17.760 a9f4 Level-0 table #28: started
+2026/06/21-07:57:17.772 a9f4 Level-0 table #28: 84159 bytes OK
+2026/06/21-07:57:17.774 a9f4 Delete type=0 #24
+2026/06/21-08:00:12.563 151c Level-0 table #30: started
+2026/06/21-08:00:12.571 151c Level-0 table #30: 89170 bytes OK
+2026/06/21-08:00:12.575 151c Delete type=0 #27
+2026/06/21-08:05:52.707 a1d0 Level-0 table #32: started
+2026/06/21-08:05:52.717 a1d0 Level-0 table #32: 62311 bytes OK
+2026/06/21-08:05:52.721 a1d0 Delete type=0 #29
+2026/06/21-08:07:47.407 a6d4 Level-0 table #34: started
+2026/06/21-08:07:47.413 a6d4 Level-0 table #34: 64982 bytes OK
+2026/06/21-08:07:47.418 a6d4 Delete type=0 #31
+2026/06/21-08:07:47.440 a6d4 Compacting 4@0 + 1@1 files
+2026/06/21-08:07:47.444 a6d4 Generated table #35@0: 3 keys, 33524 bytes
+2026/06/21-08:07:47.444 a6d4 Compacted 4@0 + 1@1 files => 33524 bytes
+2026/06/21-08:07:47.445 a6d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/21-08:07:47.446 a6d4 Delete type=2 #26
+2026/06/21-08:07:47.447 a6d4 Delete type=2 #28
+2026/06/21-08:07:47.447 a6d4 Delete type=2 #30
+2026/06/21-08:07:47.447 a6d4 Delete type=2 #32
+2026/06/21-08:07:47.447 a6d4 Delete type=2 #34
+2026/06/21-08:13:43.423 a14c Level-0 table #37: started
+2026/06/21-08:13:43.429 a14c Level-0 table #37: 67543 bytes OK
+2026/06/21-08:13:43.434 a14c Delete type=0 #33
+2026/06/21-08:14:12.296 a6d4 Level-0 table #39: started
+2026/06/21-08:14:12.299 a6d4 Level-0 table #39: 69455 bytes OK
+2026/06/21-08:14:12.301 a6d4 Delete type=0 #36

@@ -1,2 +1,6 @@
-2026/06/20-05:30:05.974 98dc Creating DB C:/Users/RYPE/Desktop/business/UE5GitHub/EfeYıldız_2421210015/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/20-05:30:05.987 98dc Reusing MANIFEST C:/Users/RYPE/Desktop/business/UE5GitHub/EfeYıldız_2421210015/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/22-02:23:22.995 7368 Reusing MANIFEST C:/Users/RYPE/Desktop/business/UE5GitHub/ehete/EfeYıldız_2421210015/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/22-02:23:23.002 7368 Recovering log #38
+2026/06/22-02:23:23.002 7368 Reusing old log C:/Users/RYPE/Desktop/business/UE5GitHub/ehete/EfeYıldız_2421210015/Saved/webcache_4430\Local Storage\leveldb/000038.log 
+2026/06/22-02:24:24.031 7368 Level-0 table #42: started
+2026/06/22-02:24:24.034 7368 Level-0 table #42: 70198 bytes OK
+2026/06/22-02:24:24.035 7368 Delete type=0 #38
